@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MarshallSpalding
 - 👀 I’m interested in data analytics, SQL, R, DataViz
 - 🌱 I’m currently learning SQL, R, DataViz, Python
-- 💞️ I’m looking to collaborate on beginner analyst projects
 - 📫 How to reach me marshallspalding@gmail.com
 
 <!---
